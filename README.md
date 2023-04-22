@@ -18,10 +18,12 @@ Par la suite, j'ai souhaité rendre le résultat plus esthétique en ajoutant un
 
 Je souhaite, pour finir ce mini-projet, se faire mouvoir les particules selon le gradient local d'un bruit de Perlin afin d'obtenir un résultat de "curling noise".
 
-Lien youtube d'une capture vidéo du programme : LIEN YT
+Ci-dessous démo du programme :
 
-Ci-dessous une capture d'écran de l'éxecution du programme :
-![Screenshot Particules](./screenshot_particules.png?raw=true)
+
+
+
+https://user-images.githubusercontent.com/58478614/233802339-472a26aa-a061-4902-87c7-15c0182e2557.mp4
 
 
 
