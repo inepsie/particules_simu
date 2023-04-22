@@ -15,7 +15,7 @@ Je souhaite, pour finir ce mini-projet, se faire mouvoir les particules selon le
 Lien youtube d'une capture vidéo du programme : LIEN YT
 
 Ci-dessous une capture d'écran de l'éxecution du programme :
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[inepsie]/[particules_simu]/[main]/screenshot_particules.png?raw=true)
 
 
 
