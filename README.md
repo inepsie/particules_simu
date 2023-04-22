@@ -6,7 +6,7 @@ Ce projet a été réalisé en tant que première prise en main des "computes sh
 
 Il utilise OpenGL, glfw, glm et glew.
 
-L'idée étant de pouvoir simuler les déplacement d'un grand nombre de particules de manières indépendantes et en GPU. Le projet, dans son état actuel, positionne aléatoirement 70 000 particules dans un cube avec des vitesses aléatoires. Lorsque les particules s'éloignent trop du centre du cube elles sont replacées à la coordonnée de ce dernier pour en jaillir.
+L'idée étant de pouvoir simuler les déplacement d'un grand nombre de particules de manières indépendantes et en GPU. Le projet, dans son état actuel, positionne aléatoirement 70 000 particules dans un cube avec des vitesses aléatoires. Lorsque les particules s'éloignent trop du centre du cube elles sont replacées à la coordonnée de ce dernier pour en jaillir. La position de la caméra suit un arc de cercle autour du centre du cube tout en le regardant.
 
 Pour rendre ces particules, le geometry shader dessine des approximations de disques. Pour qu'ils soit toujours face à la caméra leurs vertices sont multipliées par l'inverse de la matrice view.
 
